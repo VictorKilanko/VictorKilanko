@@ -105,7 +105,8 @@ January 2022
 
 
 ## For Business Inquiries:
-► **E-Mail:** victor.kilanko@gmail.com
+**► E-Mail:** victor.kilanko@gmail.com<br> 
+**► Call:** 951-662-5829
 
 <br>
 
