@@ -19,7 +19,5 @@ contribute to the success of leading-edge companies all over the world.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKilanko)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorKilanko&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/VictorKilanko/contributions?format=svg&private=true)  
 
