@@ -69,6 +69,21 @@ presentations that effectively communicated the implications of police pension
 reforms to both technical and non-technical stakeholders.
 
 
+## EDUCATION
+**Ph.D. Econometrics (3.83/4.00), Claremont Graduate University, Claremont, CA, USA**<br> 
+August 2020 — December 2024
+
+**MBA, Marketing (3.90/4.00 GPA), La Sierra University, Riverside, CA, USA**<br> 
+January 2016 — March 2019
+
+**M.A. Educational Leadership and Administration (3.94/4.00 GPA), La Sierra University, Riverside, CA, USA**<br> 
+September 2012 — December 2014
+
+**B.Sc. Microbiology (Second Class Upper Division), Obafemi Awolowo University, Nigeria**<br> 
+September 2006 — January 2011<br> 
+Editor-in-Chief, Crystal Magazine
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorKilanko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/#)  
 
