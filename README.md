@@ -11,6 +11,19 @@ causal inference techniques to solve challenging problems. Eager to leverage dee
 analytical expertise and innovative problem-solving skills to drive strategic decisions and
 contribute to the success of leading-edge companies all over the world.
 
+## SKILLS
+- Python<br> 
+- SQL<br> 
+- Tableau<br> 
+- Machine Learning<br> 
+- Quantitative Research<br> 
+- Stata<br> 
+- Communication (Oral/Written)<br> 
+- Project Mangement<br> 
+- Leadership<br>
+
+
+
 ## EMPLOYMENT HISTORY
 **Principal Data Scientist at 234 Health Systems, Remote, USA**<br> 
 February 2023 — Present<br> 
