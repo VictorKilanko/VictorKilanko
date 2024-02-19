@@ -2,7 +2,7 @@
 ![](https://github.com/VictorKilanko/VictorKilanko/blob/main/welcome1.png?raw=true)
 
 
-## PROFILE
+## MY PROFILE
 Seasoned Computational Economist and Data Scientist with a PhD in Econometrics,
 specializing in causal AI and advanced econometric methodologies. Expert in Python,
 SQL, and Stata, with a proven track record in deriving actionable insights from
