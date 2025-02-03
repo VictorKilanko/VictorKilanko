@@ -3,7 +3,7 @@
 
 
 ## MY PROFILE
-Seasoned Computational Economist and Data Scientist with a PhD in Econometrics,
+Seasoned Computational Economist and Data Scientist pursuing a PhD in Econometrics,
 specializing in causal AI and advanced econometric methodologies. Expert in Python,
 SQL, and Stata, with a proven track record in deriving actionable insights from
 complex datasets, developing machine learning algorithms, and employing robust
@@ -25,29 +25,8 @@ contribute to the success of leading-edge companies all over the world.
 
 
 ## EMPLOYMENT HISTORY
-**Principal Data Scientist at 234 Health Systems, Remote, USA**<br> 
-February 2023 — Present<br> 
-- **Strategic Data Analysis for Business Growth:** Championed the implementation of
-Causal AI and advanced econometrics methodologies, including synthetic control
-and difference-in-differences, to dissect complex cause-and-effect relationships
-within data. This strategic analysis directly contributed to a 40% increase in client
-base and a 20% uplift in profit within the first five months, significantly accelerating
-business growth and market positioning.
-- **Innovative Product Development and Optimization:** Led the design and
-development of predictive analytics tools leveraging machine learning algorithms,
-enhancing product offerings and service delivery. This initiative resulted in the
-creation of data-driven solutions that improved decision-making processes for
-clients, contributing to a 15% improvement in client satisfaction scores and a 25%
-increase in client retention rates.
-- **Data-Driven Decision-Making and Policy Formulation:** Orchestrated a
-comprehensive data analytics framework to inform and refine corporate strategies
-and policies, utilizing insights derived from causal analysis. Efforts in this area
-enabled the optimization of operational efficiencies and resource allocation,
-yielding a 30% reduction in operational costs and fostering a culture of informed
-decision-making across the organization
-
-**Research Scientist, Data Science at Computational Justice Lab, Claremont, CA**<br> 
-July 2022 — Present<br> 
+**Researcher, Econometrics at Computational Justice Lab, Claremont, CA**<br> 
+July 2022 — December 2024<br> 
 - **Data Analysis and Insight Generation:** Spearheaded the analysis of extensive
 education and criminal justice datasets, uncovering critical insights into
 California's school-to-prison pipeline. Applied sophisticated data mining
@@ -84,7 +63,7 @@ reforms to both technical and non-technical stakeholders.
 
 ## EDUCATION
 **Ph.D. Econometrics (3.83/4.00), Claremont Graduate University, Claremont, CA, USA**<br> 
-August 2020 — December 2024
+August 2020 — December 2025
 
 **MBA, Marketing (3.90/4.00 GPA), La Sierra University, Riverside, CA, USA**<br> 
 January 2016 — March 2019
