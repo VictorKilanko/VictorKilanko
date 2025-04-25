@@ -17,10 +17,6 @@ I’m Victor Kilanko, a Causal Inference and Experimentation Scientist specializ
 - Leadership<br>
 
 
-
-
-
-
 ## EDUCATION
 **PhD, Econometrics, Claremont Graduate University**<br> 
 2020- 2025 (expected)
@@ -66,7 +62,8 @@ interactive dashboards and data visualizations, enhancing the communication
 of complex insights to a broad audience, including lab members, government
 officials, and external stakeholders. This initiative improved decision-making
 processes and fostered informed dialogue on educational and criminal justice
-reform.
+reform.<br>
+
 **Econometrics & Data Analysis Specialist at Claremont Graduate University, Claremont**<br> 
 August 2020 — July 2022<br> 
 - **Legislative Research and Data Compilation:** Collected and curated a
