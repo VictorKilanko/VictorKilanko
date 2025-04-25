@@ -72,7 +72,7 @@ reforms to both technical and non-technical stakeholders.
 2006-2010
 
 
-## Working Papers
+## WORKING PAPERS
 **Job Market Paper:** Risk-Adjusted Premiums, Liability Insurance, and Gun Harm Reduction Policy: A Case Study of San Jose, California<br> 
 This study evaluates the impact of San Jose’s firearm liability insurance mandate, implemented in January 2023, on firearm-related assaults using the Augmented Synthetic Control Method (ASCM). San Jose is the first U.S. jurisdiction to mandate liability insurance for gun owners. Using city-level monthly panel data from the Uniform Crime Reporting (UCR) database and the California Department of Justice (CA DOJ), I estimate the causal effect of this policy. I employ various ASCM specifications to improve pre-treatment balance and minimize bias, including the standard SCM, Ridge-ASCM, Ridge-ASCM with covariates (number of police officers and median household income), Residualized ASCM, and Demeaned ASCM. Results show that the estimated average treatment effect on the treated (ATT) is generally negative but not statistically significant across most models. The standard SCM reports an ATT of -0.0885 (p = 0.90), while Ridge-ASCM yields -0.0895 (p = 0.89). Including covariates produces a slightly stronger estimate of -0.12 (p = 0.62), and residualized and demeaned models give estimates of -0.223 (p = 0.62) and -0.204 (p = 0.72), respectively. A consistent short-term decline is observed in May 2023, with the ATT dropping to -0.578 (p-values range from 0.025 to 0.033). These findings suggest that the policy's overall effect on firearm assaults is limited, though a temporary reduction occurred shortly after implementation. Further research with extended post-intervention data may better assess the policy’s long-term impact.<br> 
 Read Paper  - 1.pdf<br> 
@@ -83,21 +83,21 @@ A growing number of U.S. jurisdictions have decriminalized psychedelic substance
 [Read Paper  - 2.pdf](https://github.com/VictorKilanko/guide/blob/main/2.pdf)<br> 
 [Some codes - Code 2](https://github.com/VictorKilanko/guide/blob/main/Code%202.R)
 
-## Book Chapter
+## BOOK CHAPTER
 Government Response and Perspective on Autonomous Vehicles, IGI Global, DOI: 10.4018/978-1-6684-6429-8.ch008
 
-## Teaching Experience
+## TEACHING EXPERIENCE
 Modern Macroeconomics (TA), Econometrics II (TA).
 
-## Fellowships and Awards
+## FELLOWSHIPS AND AWARDS
 American Institute of Economic Research Award- Aug. 2021<br> 
 Economics Fellowship Award - August 2020
 
-## Service
+## SERVICES
 Pan-African Innovation City (www.panafrican.city), African Journal of Business Management (Review)
 References
 
-## Projects
+## PROJECTS
 **CA UCR Data**
 This project builds upon the foundational critique presented in “A Note on the Use of County-Level UCR Data” by Maltz and Targonski (2002), which highlights the limitations of county-level crime data due to missing reports and flawed imputation methods. Focusing on city-level crime data in California from 2017 to 2023, this study addresses similar concerns while offering a cleaner, more reliable dataset. The analysis reveals challenges such as overlapping jurisdictions, negative values, and missing data. To ensure accuracy, the data was cleaned by verifying reporting jurisdictions, removing overlapping law enforcement entries (e.g., city PD vs. county sheriff), and excluding non-geographic or ambiguous entities (e.g., Highway Patrol, BART). Zero-population jurisdictions were reassigned to appropriate cities after verification. Unlike county-level data, no imputation was used; instead, jurisdictions with missing data were entirely excluded. The final dataset reflects only complete, verifiable city-level crime rates based on accurate population figures, offering a more dependable foundation for crime analysis.<br> 
 [Read More - 3.pdf](https://github.com/VictorKilanko/guide/blob/main/3.pdf)<br> 
