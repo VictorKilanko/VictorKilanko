@@ -3,13 +3,7 @@
 
 
 ## MY PROFILE
-Seasoned Computational Economist and Data Scientist pursuing a PhD in Econometrics,
-specializing in causal AI and advanced econometric methodologies. Expert in Python,
-SQL, and Stata, with a proven track record in deriving actionable insights from
-complex datasets, developing machine learning algorithms, and employing robust
-causal inference techniques to solve challenging problems. Eager to leverage deep
-analytical expertise and innovative problem-solving skills to drive strategic decisions and
-contribute to the success of leading-edge companies all over the world.
+I’m Victor Kilanko, a Causal Inference and Experimentation Scientist specializing in the application of advanced causal methods to public policy and development economics. My work focuses on critical issues at the intersection of healthcare, crime, education, and innovation, with a commitment to producing evidence-driven insights that inform better decision-making and drive systemic impact.
 
 ## SKILLS
 - Python<br> 
@@ -62,18 +56,20 @@ reforms to both technical and non-technical stakeholders.
 
 
 ## EDUCATION
-**Ph.D. Econometrics (3.83/4.00), Claremont Graduate University, Claremont, CA, USA**<br> 
-August 2020 — December 2025
+**PhD, Econometrics, Claremont Graduate University**<br> 
+2020- 2025 (expected)
 
-**MBA, Marketing (3.90/4.00 GPA), La Sierra University, Riverside, CA, USA**<br> 
-January 2016 — March 2019
+**M.Sc. Econometrics, Claremont Graduate University**<br> 
+2020- 2022
 
-**M.A. Educational Leadership and Administration (3.94/4.00 GPA), La Sierra University, Riverside, CA, USA**<br> 
-September 2012 — December 2014
+**MBA, Marketing, La Sierra University **<br> 
+2016-2019
 
-**B.Sc. Microbiology (Second Class Upper Division), Obafemi Awolowo University, Nigeria**<br> 
-September 2006 — January 2011<br> 
-Editor-in-Chief, Crystal Magazine
+**MA, Educational Leadership and Administration, La Sierra University**<br> 
+2012-201
+
+**B.Sc., Microbiology, Obafemi Awolowo University** <br> 
+2006-2010
 
 
 ## PUBLICATIONS
