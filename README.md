@@ -18,41 +18,7 @@ I’m Victor Kilanko, a Causal Inference and Experimentation Scientist specializ
 
 
 
-## EMPLOYMENT HISTORY
-**Researcher, Econometrics at Computational Justice Lab, Claremont, CA**<br> 
-July 2022 — December 2024<br> 
-- **Data Analysis and Insight Generation:** Spearheaded the analysis of extensive
-education and criminal justice datasets, uncovering critical insights into
-California's school-to-prison pipeline. Applied sophisticated data mining
-techniques to illuminate trends and inform policy reform initiatives.
-- **Collaborative Research and Policy Impact:** Partnered with other scientists
-at the Lab, playing a pivotal role in evaluating the impact of educational
-policies on school-to-prison pipeline dynamics. Contributed to a data-driven
-understanding of policy effectiveness in enhancing educational outcomes,
-facilitating cross-disciplinary research efforts.
-- **Dashboard Design and Stakeholder Engagement:** Engineered and deployed
-interactive dashboards and data visualizations, enhancing the communication
-of complex insights to a broad audience, including lab members, government
-officials, and external stakeholders. This initiative improved decision-making
-processes and fostered informed dialogue on educational and criminal justice
-reform.
 
-**Econometrics & Data Analysis Specialist at Claremont Graduate University, Claremont**<br> 
-August 2020 — July 2022<br> 
-- **Legislative Research and Data Compilation:** Collected and curated a
-comprehensive dataset of legislative bills and policy briefings, creating a
-foundational research literature base to inform the analysis of police pension
-reforms.
-- **Advanced Econometric Analysis:** Employed sophisticated econometric techniques,
-including regression discontinuity and difference-in-differences models to
-rigorously evaluate the impact of police pension reforms on police behavior.
-This analysis provided critical insights into the consequences of policy changes,
-enhancing our understanding of law enforcement dynamics.
-- **Insightful Data Visualization and Reporting:** Developed compelling data
-visualizations, tables, and reports using Tableau, Matplotlib, and Streamlit to
-articulate the findings from the econometric analysis. Crafted narrative-driven
-presentations that effectively communicated the implications of police pension
-reforms to both technical and non-technical stakeholders.
 
 
 ## EDUCATION
@@ -78,10 +44,45 @@ This study evaluates the impact of San Jose’s firearm liability insurance mand
 Read Paper.pdf<br> 
 [Some Codes](https://github.com/VictorKilanko/guide/blob/main/Code%201.R)
 
-**The Impact of Psychedelic Reforms on Crime Rates in California: A Quasi-Experimental Approach<br> **
+**The Impact of Psychedelic Reforms on Crime Rates in California: A Quasi-Experimental Approach<br>**
 A growing number of U.S. jurisdictions have decriminalized psychedelic substances, and there are attendant theoretical expectations that such reforms could promote desistance from crime through the rehabilitative potential of psychedelics. This study examines the causal impact of psychedelic decriminalization on violent and property crime rates using monthly city-level panel data from 2017 - 2023 for five of the California cities that enacted such reforms. We apply a partially pooled synthetic control method (PPSCM) to estimate the reforms' effects. The analysis includes pre-treatment fit metrics (pooled and unit-specific root mean squared error, RMSE), estimates of the average treatment effect on the treated (ATT), placebo tests for significance, and a robustness check excluding one treated city (Arcata). Results indicate that the estimated effects on both violent and property crime are small in magnitude and statistically uncertain, a finding that holds across all models including the Arcata-exclusion robustness check. Methodologically, this study introduces the PPSCM approach for evaluating psychedelic policy changes, and empirically it provides new city-level evidence from California.<br> 
 [Read Paper](https://github.com/VictorKilanko/guide/blob/main/2.pdf)<br> 
 [Some Codes](https://github.com/VictorKilanko/guide/blob/main/Code%202.R)
+
+## EMPLOYMENT HISTORY
+**Researcher, Econometrics at Computational Justice Lab, Claremont, CA**<br> 
+July 2022 — December 2024<br> 
+- **Data Analysis and Insight Generation:** Spearheaded the analysis of extensive
+education and criminal justice datasets, uncovering critical insights into
+California's school-to-prison pipeline. Applied sophisticated data mining
+techniques to illuminate trends and inform policy reform initiatives.
+- **Collaborative Research and Policy Impact:** Partnered with other scientists
+at the Lab, playing a pivotal role in evaluating the impact of educational
+policies on school-to-prison pipeline dynamics. Contributed to a data-driven
+understanding of policy effectiveness in enhancing educational outcomes,
+facilitating cross-disciplinary research efforts.
+- **Dashboard Design and Stakeholder Engagement:** Engineered and deployed
+interactive dashboards and data visualizations, enhancing the communication
+of complex insights to a broad audience, including lab members, government
+officials, and external stakeholders. This initiative improved decision-making
+processes and fostered informed dialogue on educational and criminal justice
+reform.
+**Econometrics & Data Analysis Specialist at Claremont Graduate University, Claremont**<br> 
+August 2020 — July 2022<br> 
+- **Legislative Research and Data Compilation:** Collected and curated a
+comprehensive dataset of legislative bills and policy briefings, creating a
+foundational research literature base to inform the analysis of police pension
+reforms.
+- **Advanced Econometric Analysis:** Employed sophisticated econometric techniques,
+including regression discontinuity and difference-in-differences models to
+rigorously evaluate the impact of police pension reforms on police behavior.
+This analysis provided critical insights into the consequences of policy changes,
+enhancing our understanding of law enforcement dynamics.
+- **Insightful Data Visualization and Reporting:** Developed compelling data
+visualizations, tables, and reports using Tableau, Matplotlib, and Streamlit to
+articulate the findings from the econometric analysis. Crafted narrative-driven
+presentations that effectively communicated the implications of police pension
+reforms to both technical and non-technical stakeholders.
 
 ## BOOK CHAPTER
 Government Response and Perspective on Autonomous Vehicles, IGI Global, DOI: 10.4018/978-1-6684-6429-8.ch008
