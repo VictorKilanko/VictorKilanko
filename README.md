@@ -111,7 +111,7 @@ Still a work in progress. While I have used Augmented SCM to extract the treatme
 **Book:** A Guide to Causal Inference <br>
 
 This publicly written, open-access book is designed to be an accessible introduction for anyone interested in causal inference. It builds intuitive understanding alongside theoretical foundations, covering key concepts and methods in the field. The goal is to provide a comprehensive, go-to compilation of causal inference resources—a structured, self-paced curriculum that helps readers progress from beginner to advanced levels, entirely at their own pace.<br> 
-Read More
+[Read More](https://github.com/VictorKilanko/guide/blob/main/README.md)
 
 
 
