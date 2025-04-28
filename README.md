@@ -39,12 +39,12 @@ I’m Victor Kilanko, a Causal Inference and Experimentation Scientist specializ
 ## WORKING PAPERS
 **Job Market Paper:**<br> **Risk-Adjusted Premiums, Liability Insurance, and Gun Harm Reduction Policy: A Case Study of San Jose, California**<br> 
 This study evaluates the impact of San Jose’s firearm liability insurance mandate, implemented in January 2023, on firearm-related assaults using the Augmented Synthetic Control Method (ASCM). San Jose is the first U.S. jurisdiction to mandate liability insurance for gun owners. Using city-level monthly panel data from the Uniform Crime Reporting (UCR) database and the California Department of Justice (CA DOJ), I estimate the causal effect of this policy. I employ various ASCM specifications to improve pre-treatment balance and minimize bias, including the standard SCM, Ridge-ASCM, Ridge-ASCM with covariates (number of police officers and median household income), Residualized ASCM, and Demeaned ASCM. Results show that the estimated average treatment effect on the treated (ATT) is generally negative but not statistically significant across most models. The standard SCM reports an ATT of -0.0885 (p = 0.90), while Ridge-ASCM yields -0.0895 (p = 0.89). Including covariates produces a slightly stronger estimate of -0.12 (p = 0.62), and residualized and demeaned models give estimates of -0.223 (p = 0.62) and -0.204 (p = 0.72), respectively. A consistent short-term decline is observed in May 2023, with the ATT dropping to -0.578 (p-values range from 0.025 to 0.033). These findings suggest that the policy's overall effect on firearm assaults is limited, though a temporary reduction occurred shortly after implementation. Further research with extended post-intervention data may better assess the policy’s long-term impact.<br> 
-Read Paper<br> 
+[Read Paper](https://drive.google.com/file/d/1IwlAF4GlAeuOo871tEGxtkTT9i3X52YH/view?usp=sharing)<br> 
 [Some Codes](https://github.com/VictorKilanko/guide/blob/main/Code%201.R)
 
 **The Impact of Psychedelic Reforms on Crime Rates in California: A Quasi-Experimental Approach<br>**
 A growing number of U.S. jurisdictions have decriminalized psychedelic substances, and there are attendant theoretical expectations that such reforms could promote desistance from crime through the rehabilitative potential of psychedelics. This study examines the causal impact of psychedelic decriminalization on violent and property crime rates using monthly city-level panel data from 2017 - 2023 for five of the California cities that enacted such reforms. We apply a partially pooled synthetic control method (PPSCM) to estimate the reforms' effects. The analysis includes pre-treatment fit metrics (pooled and unit-specific root mean squared error, RMSE), estimates of the average treatment effect on the treated (ATT), placebo tests for significance, and a robustness check excluding one treated city (Arcata). Results indicate that the estimated effects on both violent and property crime are small in magnitude and statistically uncertain, a finding that holds across all models including the Arcata-exclusion robustness check. Methodologically, this study introduces the PPSCM approach for evaluating psychedelic policy changes, and empirically it provides new city-level evidence from California.<br> 
-[Read Paper](https://github.com/VictorKilanko/guide/blob/main/2.pdf)<br> 
+[Read More](https://github.com/VictorKilanko/guide/blob/main/2.pdf)<br> 
 [Some Codes](https://github.com/VictorKilanko/guide/blob/main/Code%202.R)
 
 ## EMPLOYMENT HISTORY
@@ -109,7 +109,7 @@ Email me for the clean dataset
 Still a work in progress. While I have used Augmented SCM to extract the treatment effect, RDD may be a more effective method. However, there are data availability issues as RDD thrives on data.<br>
 [Read More](https://github.com/VictorKilanko/guide/blob/main/4.pdf)
 
-**Book:** A Guide to Causal Inference <br>
+**Book:** The Causal Inference Curriculum<br>
 
 This publicly written, open-access book is designed to be an accessible introduction for anyone interested in causal inference. It builds intuitive understanding alongside theoretical foundations, covering key concepts and methods in the field. The goal is to provide a comprehensive, go-to compilation of causal inference resources—a structured, self-paced curriculum that helps readers progress from beginner to advanced levels, entirely at their own pace.<br> 
 [Read More](https://victorkilanko.gitbook.io/book)
