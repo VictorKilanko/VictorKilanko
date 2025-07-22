@@ -94,7 +94,7 @@ Here are some of my recent projects demonstrating my skills in Data Science and 
 - [Machine Learning Project](https://colab.research.google.com/drive/1JuDNie1v5H6BjajFppXd5Muwj-QOnlIw?usp=sharing)  
   Building and evaluating predictive models using various ML algorithms.
 
-- [Deep Learning Project presented with a Dashboard](https://ca-crime-map.streamlit.app/)
+- [Deep Learning Project presented with a Dashboard](https://ca-crime-map.streamlit.app/)<br>
   Using deep learning to identify California crime hotspots and analyze crime breakdown by city.
 
 
