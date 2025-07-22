@@ -83,6 +83,18 @@ articulate the findings from the econometric analysis. Crafted narrative-driven
 presentations that effectively communicated the implications of police pension
 reforms to both technical and non-technical stakeholders.
 
+
+## Data Science Portfolio
+
+Here are some of my recent projects demonstrating my skills in Exploratory Data Analysis and Machine Learning:
+
+- [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1s3swbLMMozk9WpZemS7eabJtAvCEy53x?usp=sharing)  
+  Analysis of datasets with data cleaning, visualization, and insights.
+
+- [Machine Learning Project](https://colab.research.google.com/drive/1JuDNie1v5H6BjajFppXd5Muwj-QOnlIw?usp=sharing)  
+  Building and evaluating predictive models using various ML algorithms.
+
+
 ## BOOK CHAPTER
 Government Response and Perspective on Autonomous Vehicles, IGI Global, DOI: 10.4018/978-1-6684-6429-8.ch008
 
