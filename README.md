@@ -151,5 +151,21 @@ January 2022
 
 
 
+## 📊 GitHub Overview
+
+<table>
+  <tr>
+    <td>
+      <h3>❄ Most Used Languages On GitHub</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKilanko&layout=compact&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <h3>⭐ My GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=VictorKilanko&show_icons=true&count_private=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 
