@@ -86,13 +86,16 @@ reforms to both technical and non-technical stakeholders.
 
 ## Data Science Portfolio
 
-Here are some of my recent projects demonstrating my skills in Exploratory Data Analysis and Machine Learning:
+Here are some of my recent projects demonstrating my skills in Data Science and Machine Learning:
 
 - [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1s3swbLMMozk9WpZemS7eabJtAvCEy53x?usp=sharing)  
   Analysis of datasets with data cleaning, visualization, and insights.
 
 - [Machine Learning Project](https://colab.research.google.com/drive/1JuDNie1v5H6BjajFppXd5Muwj-QOnlIw?usp=sharing)  
   Building and evaluating predictive models using various ML algorithms.
+
+- [Deep Learning Project presented with a Dashboard](https://ca-crime-map.streamlit.app/)
+  Using deep learning to identify California crime hotspots and analyze crime breakdown by city.
 
 
 ## BOOK CHAPTER
