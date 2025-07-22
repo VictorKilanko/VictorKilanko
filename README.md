@@ -88,14 +88,17 @@ reforms to both technical and non-technical stakeholders.
 
 Here are some of my recent projects demonstrating my skills in Data Science and Machine Learning:
 
-- [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1s3swbLMMozk9WpZemS7eabJtAvCEy53x?usp=sharing)  
+- [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/1s3swbLMMozk9WpZemS7eabJtAvCEy53x?usp=sharing)<br>  
   Analysis of datasets with data cleaning, visualization, and insights.
 
-- [Machine Learning Project](https://colab.research.google.com/drive/1JuDNie1v5H6BjajFppXd5Muwj-QOnlIw?usp=sharing)  
+- [Machine Learning Project](https://colab.research.google.com/drive/1JuDNie1v5H6BjajFppXd5Muwj-QOnlIw?usp=sharing)<br>  
   Building and evaluating predictive models using various ML algorithms.
 
 - [Deep Learning Project presented with a Dashboard](https://ca-crime-map.streamlit.app/)<br>
   Using deep learning to identify California crime hotspots and analyze crime breakdown by city.
+
+- [SQL Project](https://colab.research.google.com/drive/1poP1JG-_KYf_GN6mTz6v9xw5VhxjEWoj#scrollTo=zPg2B4nPRrXg)<br>
+  Using SQLite in Python to analyze sales data and extract key business insights through SQL queries and visualizations.
 
 
 ## BOOK CHAPTER
