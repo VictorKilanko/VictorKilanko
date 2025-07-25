@@ -100,6 +100,9 @@ Here are some of my recent projects demonstrating my skills in Data Science and 
 - [SQL Project](https://colab.research.google.com/drive/1poP1JG-_KYf_GN6mTz6v9xw5VhxjEWoj#scrollTo=zPg2B4nPRrXg)<br>
   Using SQLite in Python to analyze sales data and extract key business insights through SQL queries and visualizations.
 
+- [ML Model Deployment](https://la-crime-api.onrender.com)<br>
+  FastAPI project to predict violent crime rate in Los Angeles
+
 
 ## BOOK CHAPTER
 Government Response and Perspective on Autonomous Vehicles, IGI Global, DOI: 10.4018/978-1-6684-6429-8.ch008
