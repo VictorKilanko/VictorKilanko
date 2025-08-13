@@ -15,7 +15,7 @@ I’m Victor Kilanko, a Causal Inference and Experimentation Scientist specializ
 - Quantitative Research<br> 
 - Stata<br> 
 - Communication (Oral/Written)<br> 
-- Project Mangement<br> 
+- Project Management<br> 
 - Leadership<br>
 
 
@@ -30,7 +30,7 @@ I’m Victor Kilanko, a Causal Inference and Experimentation Scientist specializ
 2016-2019
 
 **MA, Educational Leadership and Administration, La Sierra University**<br> 
-2012-201
+2012-2014
 
 **B.Sc., Microbiology, Obafemi Awolowo University** <br> 
 2006-2010
