@@ -102,6 +102,9 @@ Here are some of my recent projects demonstrating my skills in Data Science and 
 
 - [ML Model Deployment](https://la-crime-api.onrender.com/docs)<br>
   FastAPI project to predict violent crime rate in Los Angeles
+  
+- [San Jose Gun Calls Tactical Analysis](https://colab.research.google.com/drive/14ZDHrHogEeOmVowvmK4pKQN5PcEFbEpx#scrollTo=jRCvtQDifAPH)<br>
+  Using crime analysis to extract problem areas and trends in San Jose
 
 
 ## BOOK CHAPTER
