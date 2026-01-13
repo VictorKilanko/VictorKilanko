@@ -21,7 +21,7 @@ I’m Victor Kilanko, a Causal Inference and Experimentation Scientist specializ
 
 ## EDUCATION
 **PhD, Econometrics, Claremont Graduate University**<br> 
-2020- 2025 (expected)
+2020- 2025
 
 **M.Sc. Econometrics, Claremont Graduate University**<br> 
 2020- 2022
@@ -48,6 +48,13 @@ A growing number of U.S. jurisdictions have decriminalized psychedelic substance
 [Some Codes](https://github.com/VictorKilanko/guide/blob/main/Code%202.R)
 
 ## EMPLOYMENT HISTORY
+**Research Fellow, Cicero Institute, Austin, TX**<br>
+September 2025 - Present<br>
+- **Policy Analysis:** Conducting applied research on Medicaid efficiency, healthcare spending,
+and policy design. Developing causal models to assess how Medicaid expansion affects nonprofit
+hospitals’ community benefit responsibilities, and producing policy insights for healthcare reform.<br>
+
+
 **Researcher, Econometrics at Computational Justice Lab, Claremont, CA**<br> 
 July 2022 — December 2024<br> 
 - **Data Analysis and Insight Generation:** Spearheaded the analysis of extensive
